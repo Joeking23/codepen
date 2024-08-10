@@ -1,0 +1,13 @@
+.dark-background {
+    background-color: rgb(25, 33, 41);
+    color: white;
+}
+#team .section-text {
+  font-size: 1.9em;
+  text-align: center;
+}
+
+#team .member-name {
+  font-size: 1.5em;
+  font-weight: 700;
+}
